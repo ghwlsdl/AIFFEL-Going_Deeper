@@ -7,3 +7,7 @@
 [GD-3] 잘 만든 Augmentation, 이미지 100장 안 부럽다
 
 [GD-4] 이미지 어디까지 우려볼까?
+
+[GD-5] 너의 속이 궁금해 - Class Activation Map 살펴보기
+
+[GD-6] 나를 찾아줘 - Class Activation Map 만들기
