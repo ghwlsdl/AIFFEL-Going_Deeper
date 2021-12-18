@@ -11,3 +11,7 @@
 [GD-5] 너의 속이 궁금해 - Class Activation Map 살펴보기
 
 [GD-6] 나를 찾아줘 - Class Activation Map 만들기
+
+[GD-7] Object Detection
+
+[GD-8] GO/STOP! - Object Detection 시스템 만들기
