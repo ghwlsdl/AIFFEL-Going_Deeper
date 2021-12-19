@@ -15,3 +15,9 @@
 [GD-7] Object Detection
 
 [GD-8] GO/STOP! - Object Detection 시스템 만들기
+
+쥬피터 파일의 용량이 너무 커서 쥬피터 환경에서 로드 되지 않는 경우,
+
+https://nbviewer.org/
+
+위 링크에 보고 싶은 깃허브 파일의 웹사이트 주소 링크를 ctrl+v 하시면 우회해서 보실 수 있습니다.
